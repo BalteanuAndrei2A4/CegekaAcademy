@@ -117,7 +117,7 @@ namespace Dealership.Controllers
         /*
          * get fara parametri
          */
-        [HttpGet("AvaibleCars")]
+        [HttpGet("AvailableCars")]
         public async Task<ActionResult<List<Car>>> Get()
         {
             return Ok(cars);
@@ -127,7 +127,7 @@ namespace Dealership.Controllers
          * get cu parametrul "id"
          */
 
-        [HttpGet("car/{id}")]
+        [HttpGet("{id}")]
 
         public async Task<ActionResult<List<Car>>> Get(int id)
         {
@@ -176,7 +176,7 @@ namespace Dealership.Controllers
             return Ok(cars);
         }
 
-        [HttpGet("buy/{name}")]
+        [HttpPost("Buy")]
         public async Task<ActionResult<List<Car>>> BuyCar(string manufactor, string model ,string name)
         {
             var car = cars.Find(h => h.Manufactor == manufactor && h.Model == model);
@@ -192,7 +192,7 @@ namespace Dealership.Controllers
             return Ok(car);
         }
 
-        [HttpGet("ownedCars/{name}")]
+        [HttpGet("OwnedCars")]
         public async Task<ActionResult<List<Car>>> OwnedCars( string name)
         {
             var customer = customers.Find(t => t.Name == name);
