@@ -1,0 +1,15 @@
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\bin\Debug\net6.0\MyGildedRose.exe
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\bin\Debug\net6.0\MyGildedRose.deps.json
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\bin\Debug\net6.0\MyGildedRose.runtimeconfig.json
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\bin\Debug\net6.0\MyGildedRose.dll
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\bin\Debug\net6.0\MyGildedRose.pdb
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.csproj.AssemblyReference.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.AssemblyInfoInputs.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.AssemblyInfo.cs
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.csproj.CoreCompileInputs.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.dll
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\refint\MyGildedRose.dll
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.pdb
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\MyGildedRose.genruntimeconfig.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\MyGildedRose\obj\Debug\net6.0\ref\MyGildedRose.dll

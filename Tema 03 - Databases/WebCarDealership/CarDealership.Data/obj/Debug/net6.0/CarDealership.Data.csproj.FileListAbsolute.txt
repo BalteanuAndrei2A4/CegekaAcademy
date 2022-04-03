@@ -12,3 +12,17 @@ C:\Users\Balteanu Andrei\source\repos\WebCarDealership\CarDealership.Data\obj\De
 C:\Users\Balteanu Andrei\source\repos\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.pdb
 C:\Users\Balteanu Andrei\source\repos\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.genruntimeconfig.cache
 C:\Users\Balteanu Andrei\source\repos\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\ref\CarDealership.Data.dll
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.deps.json
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.runtimeconfig.json
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.dll
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.pdb
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.csproj.AssemblyReference.cache
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.AssemblyInfoInputs.cache
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.AssemblyInfo.cs
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.csproj.CoreCompileInputs.cache
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.dll
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\refint\CarDealership.Data.dll
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.pdb
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.genruntimeconfig.cache
+C:\Users\Balteanu Andrei\Documents\GitHub\CegekaAcademy\Tema 03 - Databases\WebCarDealership\CarDealership.Data\obj\Debug\net6.0\ref\CarDealership.Data.dll

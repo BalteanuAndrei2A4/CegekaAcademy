@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QObmxTLSYCQbT7NbI27czeE4DpNM0Kobh4pkhKykH32me1Da/Q1QENPWMFSE9FVaixynpOPY07d0/rQZHhLIag==",
+  "dgSpecHash": "AChB1bkJ5vAFgZqiYlh31E6xVnWzJVRK3mNaXitm1juTc6bBRHfQiNqz0QXgU6s6LNjG9e18uoJO1wfkwLQ+Hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
+  "projectFilePath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Balteanu Andrei\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\Balteanu Andrei\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

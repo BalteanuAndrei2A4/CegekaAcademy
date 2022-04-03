@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj": {}
+    "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj": {
+    "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj",
         "projectName": "CarDealership.Data",
-        "projectPath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj",
+        "projectPath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj",
         "packagesPath": "C:\\Users\\Balteanu Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\obj\\",
+        "outputPath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Balteanu Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj": {
+    "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
+        "projectUniqueName": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
         "projectName": "WebCarDealership",
-        "projectPath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
+        "projectPath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\WebCarDealership.csproj",
         "packagesPath": "C:\\Users\\Balteanu Andrei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\WebCarDealership\\obj\\",
+        "outputPath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\WebCarDealership\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Balteanu Andrei\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj": {
-                "projectPath": "C:\\Users\\Balteanu Andrei\\source\\repos\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj"
+              "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj": {
+                "projectPath": "C:\\Users\\Balteanu Andrei\\Documents\\GitHub\\CegekaAcademy\\Tema 03 - Databases\\WebCarDealership\\CarDealership.Data\\CarDealership.Data.csproj"
               }
             }
           }

@@ -1,0 +1,6 @@
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\obj\Debug\net6.0\GildedRoseTest.csproj.AssemblyReference.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\obj\Debug\net6.0\GildedRoseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\obj\Debug\net6.0\GildedRoseTest.AssemblyInfoInputs.cache
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\obj\Debug\net6.0\GildedRoseTest.AssemblyInfo.cs
+C:\Users\Balteanu Andrei\source\repos\MyGildedRose\GildedRoseTest\obj\Debug\net6.0\GildedRoseTest.csproj.CoreCompileInputs.cache

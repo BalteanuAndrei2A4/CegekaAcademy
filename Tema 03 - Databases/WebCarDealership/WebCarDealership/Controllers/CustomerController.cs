@@ -76,7 +76,34 @@ namespace WebCarDealership.Controllers
             return Created(Request.GetDisplayUrl(), dbModel);
 
         }
+        [HttpGet("Customer/Get/{Id}")]
+        public async Task<ActionResult> GetById(int Id)
+        {
 
+            var dbModel = _dbContext.Customers.Find(Id);
+            if (dbModel == null)
+                return BadRequest("No customer with this id!");
+
+
+            foreach (var customer in _dbContext.Customers)
+            {
+                if (customer.Id == Id)
+                    return Ok(customer);
+
+            }
+            await _dbContext.SaveChangesAsync();
+
+            return BadRequest();
+
+        }
+        [HttpGet]
+        public async Task<ActionResult> Get(int Id)
+        {
+            await _dbContext.SaveChangesAsync();
+
+            return Ok(_dbContext.Customers);
+
+        }
 
     }
 }
